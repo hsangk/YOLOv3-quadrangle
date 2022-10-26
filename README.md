@@ -1,5 +1,6 @@
 # QR-code detection with quadrangle, segmentation mask
 
+![image](https://user-images.githubusercontent.com/102145595/197935774-66e4cec6-9f79-4db6-aeaf-532a1d631dda.png)
 
 
 # YOLOv3 with quadrangle
