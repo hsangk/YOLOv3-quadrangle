@@ -1,5 +1,0 @@
-classes=1
-train=./Dataset/train.part
-names=data/icdar.names
-backup=backup/
-eval=coco
