@@ -1,3 +1,7 @@
+# QR-code detection with quadrangle, segmentation mask
+
+
+
 # YOLOv3 with quadrangle
 Reimplementation of YOLOv3 with quadrangle
 
